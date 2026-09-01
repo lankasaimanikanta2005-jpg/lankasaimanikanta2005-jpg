@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Lanka Saimanikanta Sharma
 
-<!--
-**lankasaimanikanta2005-jpg/lankasaimanikanta2005-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Portfolio Banner](./portfolio-banner.png)
 
-Here are some ideas to get you started:
+### B.Tech Information Technology Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Data Analytics | 🤖 Machine Learning | 💻 Software Engineering
+
+🌐 **[Visit My Portfolio](https://aia93166.getfolioai.in)**
+
+💼 **[LinkedIn](https://www.linkedin.com/in/saimanikanta-sharma-33b14a307/)**
+
+🐙 **[GitHub](https://github.com/lankasaimanikanta2005-jpg)**
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 Big Data Analysis – E-Commerce
+Python | Pandas | NumPy | Data Analytics
+
+### 🏏 Cricket Match Prediction using Random Forest
+Python | Scikit-learn | Machine Learning
+
+### 📈 IPL 2026 Match Analysis Dashboard
+Tableau | Data Visualization | Cricket Analytics
+
+---
+
+## 🛠️ Skills
+
+Python • C • C++ • Pandas • NumPy • Tableau • React • Machine Learning • Data Analytics
